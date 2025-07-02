@@ -155,3 +155,93 @@ A product page showing the real product image, name, price, and a functioning �
 
 
 The type of wireframe in the webpage following the link is a high fidelity wireframe.
+
+
+# Wireframing Tools
+
+Wireframing tools help designers create the basic structure of a webpage or app before visual design or development begins. These tools allow you to layout user interfaces, plan interactions, and iterate quickly.
+
+Here are some popular wireframing tools used by designers and product teams:
+
+
+Figma ✅ [Highly Recommended]
+
+Figma is a powerful, browser-based design and prototyping tool. It’s widely used for wireframing, UI/UX design, and collaborative workflows.
+
+Key Features:
+
+Real-time Collaboration – Multiple users can work on the same file simultaneously.
+
+Components & Auto Layout – Easily create reusable elements and responsive layouts.
+
+Interactive Prototypes – Build clickable wireframes with transitions and flows.
+
+Design Libraries – Maintain consistency with shared styles and assets.
+
+Cloud-Based – Access projects from anywhere, no installation required.
+
+
+Why Figma is Useful for Wireframing:
+
+It offers a smooth, drag-and-drop interface for fast layout creation.
+
+You can create both low-fidelity and high-fidelity wireframes in the same platform.
+
+Ideal for teams and solo designers due to its free tier and ease of use.
+
+Enables feedback and comments directly within the design.
+
+
+2. Balsamiq
+
+A beginner-friendly wireframing tool focused on low-fidelity sketches.
+
+Why Use It:
+
+Quick to learn.
+
+Hand-drawn style to emphasize structure over visuals.
+
+Great for early brainstorming.
+
+
+3. Adobe XD
+
+A vector-based design tool used for wireframes, prototypes, and UI design.
+
+Why Use It:
+
+Seamless integration with other Adobe products.
+
+Responsive design tools and interactive prototyping.
+
+Good for high-fidelity wireframes.
+
+
+4. Sketch
+
+Mac-only design tool known for its strong plugin ecosystem and UI-focused features.
+
+Why Use It:
+
+Efficient for screen design.
+
+Supports symbols and shared styles for reusable components.
+
+
+5. Lucidchart
+
+A diagramming tool that supports wireframing with templates and drag-and-drop features.
+
+Why Use It:
+
+Ideal for UX flows and sitemaps.
+
+Good for teams that already use Lucid products.
+
+
+Conclusion
+
+For beginners and professionals alike, Figma stands out as the most accessible and powerful tool for wireframing. Its collaborative nature, ease of use, and robust features make it the go-to choice for modern web and app design projects.
+
+
