@@ -82,3 +82,76 @@ A wireframe for a login page might include a username and password field, a “L
 This shows how users can access their account and recover login details if needed.
 
 
+# Types of Wireframes
+
+Differences Between Low-Fidelity and High-Fidelity Wireframes
+
+Wireframes are used in the design process to visualize the structure and functionality of a web or app interface. They come in low-fidelity (lo-fi) and high-fidelity (hi-fi) versions, each serving different purposes at different stages of the design process.
+
+1. Low-Fidelity Wireframes
+
+Definition:
+Rough, simplified sketches or digital outlines that focus on structure, layout, and functionality — not design details.
+
+Key Features:
+
+Black-and-white or grayscale
+
+Uses placeholder text (e.g., “Lorem Ipsum”) and simple boxes
+
+No styling (fonts, colors, real images)
+
+Fast to create and easy to change
+
+Looks more like a sketch or blueprint
+
+
+When to Use:
+
+Early stage of the design process
+
+Brainstorming and exploring layout options
+
+Quickly testing ideas with team members or stakeholders
+
+Gathering initial feedback without distractions
+
+
+Example:
+
+A homepage wireframe with boxes for logo, nav bar, content area, and footer — but no real images or colors.
+
+
+2. High-Fidelity Wireframes
+
+Definition:
+Detailed and polished wireframes that closely resemble the final product in terms of content, visuals, and interactions.
+
+Key Features:
+
+Real text, actual images, and branding elements
+
+Accurate font sizes, spacing, and color schemes
+
+May include interactive elements like clickable buttons or dropdowns
+
+Simulates user experience
+
+
+When to Use:
+
+Later stages of the design process
+
+When presenting to clients, developers, or stakeholders
+
+Before transitioning to prototype or development
+
+Usability testing with more realistic feedback
+
+
+Example:
+
+A product page showing the real product image, name, price, and a functioning “Add to Cart” button with proper styling.
+
+
+The type of wireframe in the webpage following the link is a high fidelity wireframe.
